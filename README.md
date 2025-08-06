@@ -54,7 +54,7 @@ Esse comando irá:
 
 Acesse a API via Swagger:
 
-🔗 [http://localhost:5000/swagger](http://localhost:5000/swagger)
+🔗 [http://localhost:8080/swagger](http://localhost:8080/swagger)
 
 ---
 
