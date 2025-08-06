@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="ClienteIdObrigatorio" xml:space="preserve"><value>O campo ClienteId é obrigatório.</value></data>
+  <data name="DataObrigatoria" xml:space="preserve"><value>A data do pedido deve ser informada.</value></data>
+  <data name="ItensObrigatorios" xml:space="preserve"><value>O pedido deve conter ao menos um item.</value></data>
+  <data name="ProdutoObrigatorio" xml:space="preserve"><value>Produto do item é obrigatório.</value></data>
+  <data name="QuantidadeMaiorQueZero" xml:space="preserve"><value>Quantidade deve ser maior que zero.</value></data>
+  <data name="PrecoMaiorQueZero" xml:space="preserve"><value>Preço unitário deve ser maior que zero.</value></data>
+</root>
