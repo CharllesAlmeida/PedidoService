@@ -1,4 +1,4 @@
-# PedidoService - Microserviço de Pedidos
+# PedidoService - Microserviço de Pedidos com SQL Server, MongoDB, Redis e RabbitMQ via Docker.
 
 Este projeto implementa um microserviço para gerenciamento de pedidos com integração a plataformas parceiras, seguindo princípios de arquitetura limpa.
 
@@ -136,3 +136,6 @@ Testes inclusos no projeto:
 ---
 
 © 2025 DevSenior.NET
+=======
+
+
